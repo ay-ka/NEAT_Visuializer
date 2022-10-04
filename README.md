@@ -45,13 +45,13 @@
 
 <ul>
   
-  <b><h2>Active a network and add node and connections</h2>
+  <b><h2>Activate a network and add node and connections</h2>
   <img src="images/1.png">
   <img src="images/2.png">
   <b><h2>Unset network</h2></b>
   <img src="images/3.png">
   <img src="images/1.png">
-  <b><h2>crossover by activating both betwork</h2></b>
+  <b><h2>crossover by activating both networks</h2></b>
   <img src="images/4.png"> 
   <b><h2>start crossover</h2></b>
   <img src="images/5.png">
