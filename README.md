@@ -120,6 +120,3 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-  <li>
-    <b>MADDPG applied on Robosuite: </b> This project is about Implementing <b>MADDPG</b> and applying that on <a                                                                        href="https://robosuite.ai/">Robosuite benchmark</a>
-  </li>
